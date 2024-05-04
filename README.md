@@ -1,5 +1,3 @@
-# CF-Instacart
-
 <h2 id="cf-instacart">CF-Instacart</h2>
 <p>This repository is a demonstration of Python knowledge using a sample project from Career Foundry - &quot;Instacart&quot;. </p>
 <h3 id="objective">Objective</h3>
