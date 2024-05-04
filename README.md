@@ -23,4 +23,4 @@
 <li>scipy - for visualization</li>
 </ul>
 <h3 id="executing-the-code">Executing the code</h3>
-<p>The code is available in scripts under the folder &#39;03 Scripts&#39;</p>
+<p>The code is available in scripts under the folder &#39;Scripts&#39;</p>
